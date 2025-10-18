@@ -36,8 +36,9 @@ I'm actively looking for **remote senior blockchain developer roles** in interna
 | Project | Description | Tech | Link |
 |--------|-------------|------|------|
 | 🛒 [NFT Marketplace Advanced](https://github.com/Sulvank/nft-marketplace-advanced) | Multi-collection NFT marketplace with offers, fees and listing logic | Solidity, Hardhat, Ethers.js | [View Repo](https://github.com/Sulvank/nft-marketplace-advanced) |
-| 💰 Staking Vault | Smart contract vault with custom staking logic and reward tracking | Solidity, Foundry | [Coming Soon] |
-| 🎟️ NFT Membership | Token-gated membership using custom ERC-721 NFTs | Solidity, OpenZeppelin | [Coming Soon] |
+| 🔄 [Sentinel Swap](https://github.com/Sulvank/sentinel-swap) | Decentralized token swap protocol with liquidity pool management and Uniswap V2-style architecture | Solidity, Foundry | [View Repo](https://github.com/Sulvank/sentinel-swap) |
+| 🎟️ [NFT Membership Card](https://github.com/Sulvank/nft-membership-card) | Token-gated NFT membership system with whitelist (Merkle Tree), staking and random draws | Solidity, Foundry, OpenZeppelin | [View Repo](https://github.com/Sulvank/nft-membership-card) |
+
 
 ---
 
@@ -54,7 +55,6 @@ I'm actively looking for **remote senior blockchain developer roles** in interna
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuel-casanova-valdes-440b15a6/)
 - ✉️ samuelcasanova.int@gmail.com
-- 🔗 [GitHub](https://github.com/Sulvank)
 
 ---
 
