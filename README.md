@@ -13,7 +13,7 @@ Currently CTO at a legal-tech startup, with a background in consultancy, product
 
 My core strengths:
 - Smart contract development with **Solidity**
-- Testing using **Foundry**, **Hardhat**, and **Chai/Mocha**
+- Testing using **Foundry**
 - Designing NFT ecosystems, staking mechanics, DAOs
 - Clean, secure code with strong documentation and modular structure
 
